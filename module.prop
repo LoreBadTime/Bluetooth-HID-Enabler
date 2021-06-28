@@ -1,0 +1,6 @@
+id=Bluetooth_HID_enabler
+name=Bluetooth_Hid_Enabler
+version=V3 Magisk Update 21.4
+versionCode=3
+author=LoreBadTime (Overlay by ysc3839)
+description=Simple module to enable Bluetooth Hid profiles
