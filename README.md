@@ -8,6 +8,6 @@ Before installing this i recommend to check your device compatibility here https
 
 OnePlus user could have some problems enabling HID support,some suggested to change their ROM to lineageOS
 
-Big thanks to ysc3839 for the enabler apk https://github.com/ysc3839/magisk-bluetoothhidenabler, you can use his module for older magisk versions(2.14<)
+Big thanks to ysc3839 for the enabler apk https://github.com/ysc3839/magisk-bluetoothhidenabler, you can use his module for older magisk versions(24.1<)
 
 
