@@ -10,4 +10,4 @@ OnePlus user could have some problems enabling HID support,some suggested to cha
 
 Big thanks to ysc3839 for the enabler apk https://github.com/ysc3839/magisk-bluetoothhidenabler, you can use his module for older magisk versions(21.4<)
 
-
+EDIT: Tested and working on Android 10 with magisk 23.0,if something isn't working try to see issue section
